@@ -1,0 +1,10 @@
+local gameLoaders = {
+    ["128066522055979"] = "https://gist.githubusercontent.com/ChuScriptsOfficial/242a5e262a323c907160ca82a28c5119/raw/08743087822279c6fe7f6c8359abe74328b9d829/TwoPlayerStealBrainrot.lua",
+}
+
+local gameId = tostring(game.PlaceId)
+local loaderUrl = gameLoaders[gameId]
+
+if loaderUrl then
+    loadstring(game:HttpGet(loaderUrl))()
+end
