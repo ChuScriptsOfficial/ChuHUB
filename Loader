@@ -2,7 +2,7 @@ local gameLoaders = {
     -- Two Player Steal Brainrot
     ["128066522055979"] = "https://gist.githubusercontent.com/ChuScriptsOfficial/242a5e262a323c907160ca82a28c5119/raw/08743087822279c6fe7f6c8359abe74328b9d829/TwoPlayerStealBrainrot.lua",
     -- Ink Game
-    ["99567941238278"] = "https://gist.githubusercontent.com/ChuScriptsOfficial/5730c0706f8443b090d8620e5068a9d4/raw/8d1fb5a1e0a52e9b0e1cef3b575c77c6ad9a7491/InkGame.lua",
+    ["99567941238278"] = "https://gist.githubusercontent.com/ChuScriptsOfficial/ba63b6d28dfb6e17c17ab41cc37f8215/raw/79d5554faffd04c791af7a4fc222ba087c5bd737/InkGame.lua",
 }
 
 local gameId = tostring(game.PlaceId)
