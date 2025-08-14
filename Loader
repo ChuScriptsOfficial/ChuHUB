@@ -1,1 +1,7 @@
+local placeId = game.PlaceId
+
+-- 99 Nights In The Forest
+if placeId == 126509999114328 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ChuScriptsOfficial/99Nights/refs/heads/main/obfuscated_script-1755199383181.lua.txt"))()
+end
 
